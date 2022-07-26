@@ -1,3 +1,4 @@
-module awesomeProject/hello
+module awesomeProject/main
+
 
 go 1.18
